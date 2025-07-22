@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "title": "css",
+      "description": "html etiketlerini biçimlendirme",
+      "important": true,
+      "id": "d7c2"
+    },
+    {
+      "title": "ilk test",
+      "description": "ilk açıklama",
+      "important": true,
+      "id": "5db8"
+    },
+    {
+      "title": "javascript",
+      "description": "test",
+      "important": true,
+      "id": "eedf"
+    },
+    {
+      "id": "6e30",
+      "title": "React",
+      "description": "Jsx ve html javascript kodları için kullanabilme",
+      "important": true
+    },
+    {
+      "id": "0385",
+      "title": "Güncelleme",
+      "description": "Tamam",
+      "important": true
+    }
+  ]
+}

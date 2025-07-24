@@ -1,3 +1,16 @@
+# Task Uygulaması
+
+Bu proje, React ile geliştirilmiş basit bir görev (task) uygulamasıdır. Kullanıcılar yeni görevler ekleyebilir, mevcut görevleri listeleyebilir ve görevleri tamamlandı olarak işaretleyebilir.
+
+## Özellikler
+
+- Görev ekleme
+- Görevleri listeleme
+- Görevleri tamamlandı olarak işaretleme
+- Görevleri silme
+- Axios ile backend API'ye istek gönderme 
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
